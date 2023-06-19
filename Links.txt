@@ -3,3 +3,5 @@ HackerRank SQL (BASIC) Certification: https://www.hackerrank.com/certificates/ef
 HackerRank Python (BASIC) Certification: https://www.hackerrank.com/certificates/29447975f84a
 
 HackerRank CSS Certification: https://www.hackerrank.com/certificates/b627c4e3e762
+
+HackerRank C# Certification: https://www.hackerrank.com/certificates/f6d00d7c3e12
