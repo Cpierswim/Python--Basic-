@@ -1,2 +1,3 @@
-Hackerrank SQL Certification: https://www.hackerrank.com/certificates/efabbcbdc60b
+Hackerrank SQL (BASIC) Certification: https://www.hackerrank.com/certificates/efabbcbdc60b
 
+Hackerrank Python (BASIC) Certification: https://www.hackerrank.com/certificates/29447975f84a
